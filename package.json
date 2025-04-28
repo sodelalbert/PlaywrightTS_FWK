@@ -1,0 +1,13 @@
+{
+  "name": "PlaywrightTS_FWK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sodelalbert/PlaywrightTS_FWK.git",
+  "author": "Albert Sodel <sodelalbert@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  },
+  "scripts": {}
+}
